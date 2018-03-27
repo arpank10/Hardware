@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Mar 16 22:33:42 2018
+# Process ID: 5720
+# Current directory: C:/Users/arpan/Desktop/project5/project5.runs/impl_1
+# Command line: vivado.exe -log mfu.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mfu.tcl -notrace
+# Log file: C:/Users/arpan/Desktop/project5/project5.runs/impl_1/mfu.vdi
+# Journal file: C:/Users/arpan/Desktop/project5/project5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mfu.tcl -notrace
